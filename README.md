@@ -1,24 +1,28 @@
-# README
+# <フォトリオ>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ:自分が撮影した写真を投稿し交流することができるSNSサイト
+<...>
 
-Things you may want to cover:
+### テーマを選んだ理由:前職でカメラを扱っており自分でも撮影していたが、同じように写真を撮る人同士で交流できるサイトがあれば便利だと考えたため、このテーマにしました
+<...>
 
-* Ruby version
+### ターゲットユーザ:写真を撮影する人
+<...>
 
-* System dependencies
+### 主な利用シーン:自分の撮影した写真を公開したり、他者の写真を見ることができる
+<...>
 
-* Configuration
+## 設計書
+<...>
 
-* Database creation
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
